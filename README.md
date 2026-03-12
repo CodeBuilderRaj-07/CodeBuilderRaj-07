@@ -4,7 +4,7 @@
 🚀 Passionate about coding, building projects, and exploring new tech  
 📂 Completed 4+ solo projects  
 🌱 Always learning new things in programming, AI, and web development  
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/raj) | [Portfolio](https://rajcodes.dev)
+📫 Connect with me: [LinkedIn]([https://linkedin.com/in/raj](https://www.linkedin.com/in/raj-kumar-pattnaik-808b493b6/))
 
 ## ⚡ Skills
 - Languages: Python, C, JavaScript  
