@@ -9,7 +9,7 @@
 ## ⚡ Skills
 - Languages: Python, C, JavaScript  
 - Web: HTML, CSS, React  
-- Tools: Git, GitHub, VS Code, Linux  
+- Tools: Git, GitHub, VS Code,
 
 ## 🔨 Projects
 - [Project 1](#) – brief description  
