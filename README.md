@@ -12,7 +12,7 @@
 - Tools: Git, GitHub, VS Code,
 
 ## 🔨 Projects
-- [Project 1](##https://trading-cons-g-copy-78c9a9fc.base44.app#) – Perosnal Use Want To Manage And Save My Trades 
+- [Project 1](#https://trading-cons-g-copy-78c9a9fc.base44.app#) – Perosnal Use Want To Manage And Save My Trades 
 - [Project 2](#) – brief description  
 - [Project 3](#) – brief description  
 - More projects coming soon!
